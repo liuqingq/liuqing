@@ -1,5 +1,8 @@
 ﻿Git相关简介：
    Git是目前世界上最先进的分布式版本控制系统；
+
+
+
 1、创建一个空目录：
 mkdir learngit
 cd learngit
